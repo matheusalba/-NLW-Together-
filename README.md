@@ -1,2 +1,2 @@
 # NLW-Together 6
-Sistema de cadastro de elogios, farei code review e adicionarei novas features ao projeto.
+Sistema de cadastro de elogios, desenvolvido no evento NLW da Rocketseat.
